@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Bruno Fabro
 
-<!--
-**brunofabro/brunofabro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Formação**: Técnico em Eletrotécnica, atualmente cursando Técnico em Desenvolvimento de Sistemas.  
+💻 **Profissão**: Suporte Técnico N1 — solucionando problemas e ajudando usuários com tecnologia todos os dias.  
+⚽🎮 **Hobbies**: Futebol & CS2 — estratégia, foco e trabalho em equipe.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou alguém que vive a tecnologia no dia a dia e se inspira em jogos e esportes para crescer pessoal e profissionalmente. Acredito que tanto no futebol quanto no CS2, você precisa de raciocínio rápido, colaboração e resiliência — as mesmas habilidades que aplico quando programo ou resolvo um problema técnico.
+
+---
+
+## 🧰 Tecnologias que estou aprendendo
+
+- HTML5, CSS3
+- JavaScript
+- Git e GitHub
+- Lógica de programação
+- Python (iniciante)
+- Banco de dados (MySQL)
+
+---
+
+## 📌 Objetivos
+
+- Evoluir para Desenvolvedor Júnior
+- Criar projetos que unam tecnologia e cultura gamer
+- Contribuir com a comunidade tech e ajudar quem está começando
+
+---
+
+## ⚽🎮 Fora do teclado...
+
+**Futebol** me ensina a importância do time.  
+**Counter-Strike 2** me ensinou a pensar rápido, tomar decisões sob pressão e sempre melhorar.
+
+![CS2 Banner](https://cdn.cloudflare.steamstatic.com/apps/csgo/images/cs2/blog/cs2_blog_image.jpg)
+> "Comunicação, estratégia e precisão — tudo o que você aprende em um clutch no CS2 vale pra vida."
+
+---
+
+## 📫 Onde me encontrar
+
+- LinkedIn: [linkedin.com/in/bruno-fabro](https://www.linkedin.com/in/bruno-fabro)  
+- GitHub: [github.com/brunofabro](https://github.com/brunofabro)
+
+---
+
+> “Seja na tecnologia, no campo ou no servidor, a evolução vem com treino, erro e repetição.”
+
