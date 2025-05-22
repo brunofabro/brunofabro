@@ -1,5 +1,6 @@
 # 👋 Olá! Eu sou o Bruno Fabro
 
+
 🎓 **Formação**: Técnico em Eletrotécnica, atualmente cursando Técnico em Desenvolvimento de Sistemas.  
 💻 **Profissão**: Suporte Técnico N1 — solucionando problemas e ajudando usuários com tecnologia todos os dias.  
 ⚽🎮 **Hobbies**: Futebol & CS2 — estratégia, foco e trabalho em equipe.
@@ -35,7 +36,6 @@ Sou alguém que vive a tecnologia no dia a dia e se inspira em jogos e esportes 
 **Futebol** me ensina a importância do time.  
 **Counter-Strike 2** me ensinou a pensar rápido, tomar decisões sob pressão e sempre melhorar.
 
-![CS2 Banner][(https://cdn.cloudflare.steamstatic.com/apps/csgo/images/cs2/blog/cs2_blog_image.jpg](https://www.canva.com/design/DAF6oAUTh3k/KnhHfw24VjS5YM5CcjDKrQ/view?utm_content=DAF6oAUTh3k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h92c69d19d6))
 
 ---
 
